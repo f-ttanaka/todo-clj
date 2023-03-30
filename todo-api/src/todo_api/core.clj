@@ -1,4 +1,4 @@
-(ns cljapi.core)
+(ns todo-api.core)
 
 
 (defn -main
